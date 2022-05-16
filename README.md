@@ -9,6 +9,6 @@ download from: https://pan.baidu.com/s/1g0rTJazyenwwRMjnYe0guQ   key: pc98
 
 ## Testing:
 
-#### python main_CEM3.py
+#### python main.py
 
 
